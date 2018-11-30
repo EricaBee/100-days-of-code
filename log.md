@@ -12,11 +12,11 @@ Continue learning on [SoloLearn.com](https://www.sololearn.com).
 
 ### Day 2: November 28, 2018 - Wednesday
 
-**Today's Progress**: <!--INSERT PROGRESS HERE-->.
+**Today's Progress**: Coninue CSS Grid curriculum on [freecodecamp.org](https://www.freecodecamp.org).
 
-**Thoughts**: <!--INSERT THOUGHTS HERE-->
+**Thoughts**: So. Sleepy. Must. Code. Feeling super committed to learning. Working full-time and trying to be a self-taught developer is difficult, but not impossible. Inspired by reading about other developers' journeys on [Medium](https://medium.freecodecamp.org/how-i-landed-a-full-stack-developer-job-without-a-tech-degree-or-work-experience-6add97be2051?source=email-5e0746fca25d-1543503274724-digest.reader------0-59------------------7fc307b3_0aa9_4151_9f87_9be57a255846-1&sectionName=top&gi=a00f26e00f51). 
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: [FreeCodeCamp - CSS Grid](https://learn.freecodecamp.org/responsive-web-design/css-grid)
 
 
 ### Day 3: November 29, 2018 - Thursday
