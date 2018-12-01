@@ -36,7 +36,17 @@ Must sleep.
 
 **Today's Progress**: Catching up on the morning of December 1st... didn't do my hour after the craziest day at work yesterday. It's okay though... I'm getting an hour in this morning by finishing CSS Grid & moving onto my first responsive web design project. 
 
-**Thoughts**: <!--INSERT THOUGHTS HERE-->
+**Thoughts**: I have to go back and reference my notes A LOT when finishing some of the challenges. Reinforcement happens from practice & repitition... so onward I must go. Relieved that I finished CSS grid and move onto my first project. Le sigh of relief. 
+
+**Link(s) to work**
+1. [FreeCodeCamp - CSS Grid](https://learn.freecodecamp.org/responsive-web-design/css-grid)
+2. [FreeCodeCamp - Responsive Web Design Projects](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects)
+
+### Day 5: December 1, 2018 - Saturday
+
+**Today's Progress**: 
+
+**Thoughts**: 
 
 **Link(s) to work**
 1. 
