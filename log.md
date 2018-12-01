@@ -34,7 +34,7 @@ Must sleep.
 
 ### Day 4: November 30, 2018 - Friday
 
-**Today's Progress**: <!-- INSERT PROGRESS HERE-->
+**Today's Progress**: Catching up on the morning of December 1st... didn't do my hour after the craziest day at work yesterday. It's okay though... I'm getting an hour in this morning by finishing CSS Grid & moving onto my first responsive web design project. 
 
 **Thoughts**: <!--INSERT THOUGHTS HERE-->
 
