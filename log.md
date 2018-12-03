@@ -44,9 +44,15 @@ Must sleep.
 
 ### Day 5: December 1, 2018 - Saturday
 
-**Today's Progress**: 
+**Today's Progress**: Started Tribute Page for FCC - Responsive Web Design Project. 
 
-**Thoughts**: 
+**Thoughts**: I spent WAY too much time trying to decide on who to make a tribute page for. I ended up deciding on Mirabai, a Bhakti saint from India who low key started a fememist movement. She defied social norms during her lifetime in the 1500s, devoting herself to God & the Hindu god Krishna, instead of her royal life. 
+
+### Day 6: December 2, 2018 - Sunday
+
+**Today's Progress**: Finished Mirabai Tribute page. 
+
+**Thoughts**: It was easier than I thought it would be. I'm happy about that :) 
 
 **Link(s) to work**
-1. 
+1. https://codepen.io/ericabee/pen/KrJXbq
