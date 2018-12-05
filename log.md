@@ -56,3 +56,22 @@ Must sleep.
 
 **Link(s) to work**
 1. https://codepen.io/ericabee/pen/KrJXbq
+
+### Day 7: December 3, 2018 - Monday
+
+**Today's Progress**: Start 2nd Responsive Web Design Project: Create a Survey Form. 
+
+**Thoughts**: I had a confusing moment where I tried to copy+paste my code from codepen.io into a GitHub repository and found out the hard way that GitHub doesn't work like that.  I finished a good portion of my survey form & hope to completely finish by tomorrow. 
+
+**Link(s) to work**
+1. [FreeCodeCamp - Build a Survey Form](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-survey-form)
+
+### Day 8: December 4, 2018 - Tuesday 
+
+**Today's Progress**: Finished 2nd Responsive Web Design Project: Create a Survey Form. Start 3rd project, build a product landing page.
+
+**Thoughts**: I was able to finish my survey form, which took a little longer than I expected. I changed a few things with the styling and made sure to pass all 17 tests. I keep using colors in the periwinkle family in my projects. I <3 periwinkle. 
+
+**Link(s) to work**
+1. [FreeCodeCamp - Build a Survey Form](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-survey-form)
+2. [FCC Survey Form - CodePen.io](https://codepen.io/ericabee/pen/JeVjyw)
