@@ -75,3 +75,61 @@ Must sleep.
 **Link(s) to work**
 1. [FreeCodeCamp - Build a Survey Form](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-survey-form)
 2. [FCC Survey Form - CodePen.io](https://codepen.io/ericabee/pen/JeVjyw)
+
+### Day 9: December 5, 2018 - Wednesday
+
+**Today's Progress**: Started my product landing page for FCC.
+
+**Thoughts**: I had a lot of trouble trying to insert a background image of cupcakes for my cupcake product landing page. Was super frusterated. I still hadn't figured it out, but will come back  
+
+**Link(s) to work**
+1. Le sigh. None today. 
+
+### Day 10: December 6, 2018 - Thursday
+
+**Today's Progress**: So busy at work and after that I was not able to code.
+
+**Thoughts**: Must commence coding again soon! Will make up for my lost hour this weekend when there is more free time. 
+
+**Link(s) to work**
+1. Le sigh. None today. 
+
+### Day 11: December 7, 2018 - Friday
+
+**Today's Progress**: So busy at work and after that I was not able to code.
+
+**Thoughts**: Must commence coding again soon! Will make up for my lost hour this weekend when there is more free time. 
+
+**Link(s) to work**
+1. Le sigh. None today. 
+
+### Day 12: December 8, 2018 - Saturday
+
+**Today's Progress**: Finally sat down to work on FCC projects and SoloLearn for 3 hours. Finished product landing page & Technical Documentation page.  
+
+**Thoughts**: 
+
+**Link(s) to work**
+1. 
+
+### Day 13: December 9, 2018 - Sunday
+
+**Today's Progress**: Started my Personal Portfolio on FCC. 
+
+**Thoughts**: I forked the example project on [CodePen](https://codepen.io/freeCodeCamp/full/zNBOYG), but having the hardest time replacing the tribute page project image with my own tribute page image. 
+
+**Link(s) to work**
+1. [FCC - Build a Personal Portfolio Webpage](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-personal-portfolio-webpage)
+
+### Day 14: December 10, 2018 - Monday
+
+**Today's Progress**: Finished my Personal Portfolio on FCC. Finished my 300 hour Responsive Web Design Certification. Started learning Basic JavaScript. 
+
+**Thoughts**: It took a while, but I figured out how to insert a thumbnail instead of an image in the html section of my personal profile. I would like it to be a little more zoomed out, but for now it will do. I want to come back to some of my projects to clean them up a bit and make them more sleek and presentable. I'm content for now and can't wait to start learning JavaScript next. :)
+
+UPDATE:
+Introduced myself to JavaScript. Trying to take my time to not rush through and learn the concepts... I think I'm doing well. My brain is kinda mushy from doing a couple of hours of code today, but I keep telling myself it's like developing a muscle I'm not used to working. Going to need brain food, a cat nap, & cuddles from my boo. 
+
+**Links to Work**:
+1. [FCC - Build a Personal Portfolio Webpage](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-personal-portfolio-webpage)
+2. [Introduction to JavaScript](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript)
